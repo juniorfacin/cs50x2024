@@ -21,9 +21,19 @@ Este é o CS50x, a introdução da Universidade de Harvard às atividades intele
 
 <!-- https://github.com/gepser/markdown-progress -->
 
-| Week      | Title | Grade|
+| Week | Title   | Grade                            |
+|------|---------|----------------------------------|
+| 0    | Scratch | ![](https://geps.dev/progress/0)|
+| 1    | C | ![](https://geps.dev/progress/0)|
+| 2    | Arrays | ![](https://geps.dev/progress/0)|
+| 3    | Algoritmos | ![](https://geps.dev/progress/0)|
+| 4    | Memória | ![](https://geps.dev/progress/0)|
+| 5    | Estrutura de Dados | ![](https://geps.dev/progress/0)|
+| 6    | Python | ![](https://geps.dev/progress/0)|
+|     | Inteligência Artificial | ![](https://geps.dev/progress/0)|
+| 7    | SQL | ![](https://geps.dev/progress/0)|
+| 8    | HTML, CSS, JavaScript | ![](https://geps.dev/progress/0)|
+| 9    | Flask | ![](https://geps.dev/progress/0)|
+| 10    | Cybersecurity | ![](https://geps.dev/progress/0)|
 
-| ----------- | ----------- | ------------- |
-
-| 0      | Scratch    | ![](https://geps.dev/progress/10)
 
