@@ -19,5 +19,11 @@ Este é o CS50x, a introdução da Universidade de Harvard às atividades intele
 
 ## cs50 2024 - Progresso
 
+<!-- https://github.com/gepser/markdown-progress -->
 
+| Week      | Title | Grade|
+
+| ----------- | ----------- | ------------- |
+
+| 0      | Scratch    | ![](https://geps.dev/progress/10)
 
