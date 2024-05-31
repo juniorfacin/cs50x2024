@@ -1,4 +1,4 @@
-# <img src="harvard.png" height=20>&nbsp; Harvard University - CS50 Intro to Computer Science 2024
+# <img src="./harvard.png" height=20>&nbsp; Harvard University - CS50 Intro to Computer Science 2024
 
 Este repositório é destinado ao armazenamento dos meus projetos e arquivos relacionados ao curso CS50x da Universidade de Harvard. É importante esclarecer que o repositório não tem a intenção de compartilhar respostas ou promover desonestidade acadêmica. Este é um objetivo pessoal meu para completar o curso CS50x, e este repositório serve como um registro público do meu progresso.
 
